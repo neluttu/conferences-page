@@ -10,7 +10,6 @@ module.exports = {
             'merriweather': ['Merriweather', 'sans-serif'],
             'lato': ['Lato', 'sans-serif'],
             'montserrat': ['Montserrat', 'sans-serif'],
-            'sourcesans3': ['Source Sans 3', 'sans-serif'],
             'noto': ['Noto Sans', 'sans-serif'],
             'roboto': ['Roboto', 'sans-serif'],
             'oswald': ['Oswald', 'sans-serif']
